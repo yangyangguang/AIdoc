@@ -4,3 +4,4 @@
 2.TensorFlow还有功能强大的可视化组件TensorBoard
 3.卷积神经网络（Convolutional Neural Network，CNN）、循环神经网络（Recurent Neural Network，RNN）]外，
     TensorFlow还支持深度强化学习乃至其他计算密集的科学计算（如偏微分方程求解等）
+4.C++,CUDA，python编程（这个是体现能力的重点环节）
