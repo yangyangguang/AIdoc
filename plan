@@ -5,3 +5,6 @@
 3.卷积神经网络（Convolutional Neural Network，CNN）、循环神经网络（Recurent Neural Network，RNN）]外，
     TensorFlow还支持深度强化学习乃至其他计算密集的科学计算（如偏微分方程求解等）
 4.C++,CUDA，python编程（这个是体现能力的重点环节）
+5.百度PaddlePaddle框架，图像，自然语言处理，语音，计算广告 CV/NLP/S
+6.以色列深度学习网络攻防和防御 
+7.
