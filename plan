@@ -1,7 +1,7 @@
 1.数据预处理 python基础
     Python就有NumPy、SciPy、Pandas、Scikit-learn、XGBoost等组件，做数据采集和预处理都非常方便，
     并且之后的模型训练阶段可以和TensorFlow等基于Python的深度学习框架完美衔接
-2.TensorFlow还有功能强大的可视化组件TensorBoard
+2.TensorFlow还有功能强大的可视化组件TensorBoard tfrecord
 3.卷积神经网络（Convolutional Neural Network，CNN）、循环神经网络（Recurent Neural Network，RNN）]外，
     TensorFlow还支持深度强化学习乃至其他计算密集的科学计算（如偏微分方程求解等）
 4.C++,CUDA，python编程（这个是体现能力的重点环节）
