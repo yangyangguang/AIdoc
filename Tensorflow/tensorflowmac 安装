@@ -1,0 +1,4 @@
+1.安装 anaconda3 安装好了之后
+2.在anaconda3界面创建环境 并指定pthon版本
+3.source activate tensorflow 激活环境  在此目录下安装自己的tensorflow
+4.在anaconda3 下可以切换python 版本 conda create --name python27 python=2.7 安装   切换命令 conda activate python27
